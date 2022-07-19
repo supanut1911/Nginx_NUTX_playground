@@ -1,5 +1,5 @@
 const express = require("express");
-const app = exporess();
+const app = express();
 const port = 4000;
 
 app.get("/", (req, res) => {
